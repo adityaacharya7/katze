@@ -2,6 +2,12 @@
 
 Katze is a PHP-based e-commerce platform for selling pet supplies. It provides a complete online shopping experience, from browsing products to checking out. The project also includes features for user authentication, an adoption page, and a news section.
 
+## Contributors
+
+* **Aditya Acharya**
+* **Anamika Ashokkumar**
+* **Tanmay Gawade**
+  
 ## Features
 
 *   **User Authentication:** Secure user registration and login system with password hashing.
